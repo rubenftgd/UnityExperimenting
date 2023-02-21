@@ -5,4 +5,4 @@
 
 **First Screenshot**
 ======
-![plot](./gameplay-images/first-test.png)
+![plot](./gameplay-images/first_test.png)
