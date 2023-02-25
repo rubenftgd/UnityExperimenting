@@ -6,3 +6,11 @@
 **First Screenshot**
 ======
 ![plot](./gameplay-images/first_test.png)
+
+---
+
+**Link to Udemy Course**
+======
+**NOTE:** Even though I don't receive any compensation for recommending this course, I highly recommend it to anyone who is new to game development. The course provides an exceptional learning experience taught by some of the most skilled instructors in the industry, exclusively on Unity.
+
+:globe_with_meridians: **Link:** https://www.udemy.com/course/unitycourse/
